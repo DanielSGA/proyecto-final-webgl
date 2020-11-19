@@ -40,6 +40,8 @@ npm start
 
 El proyecto se iniciará automáticamente en el browser predeterminado en una dirección de **localhost**
 
+![alt text](https://github.com/DanielSGA/proyecto-final-webgl/blob/master/Avance2.jpeg?raw=true)
+
 ## Referencias
 
 **Three.js**
