@@ -42,6 +42,13 @@ El proyecto se iniciará automáticamente en el browser predeterminado en una di
 
 ![Screenshot](Avance2.jpeg)
 
+## Avance 3
+##### *Miércoles 25 de Noviembre 2020*
+
+Incorporación de texturas para los Voltorb y creación de Skybox con imagen de fondo temporal para background y rotación de cámara con click and drag.
+
+![Screenshot](Avance3.png)
+
 ## Referencias
 
 **Three.js**
@@ -51,3 +58,7 @@ https://threejs.org/docs/#manual/en/introduction/Installation
 **Snowpack**
 
 https://www.snowpack.dev
+
+**Voltorb Texture**
+
+https://forum.toribash.com/showthread.php?t=439301
