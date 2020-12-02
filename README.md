@@ -2,6 +2,8 @@
 
 Proyecto final de la clase TC3022 - Gráficas computacionales. Creación de una escena en 3D utilizando WebGL.
 
+**CÓDIGO EN SRC > INDEX.TS**
+
 ## Avance 1
 ##### *Miércoles 11 de Noviembre 2020*
 
